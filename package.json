@@ -4,7 +4,8 @@
   "description": "Aplikasi Pemesanan Jasa Studio Online",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
   },
   "author": "Ipung Purwono 201501138",
   "license": "ISC",
