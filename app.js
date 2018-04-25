@@ -2,6 +2,7 @@ var express = require('express');
 var app = express();
 var port = 3000;
 
+//Folder menaruh bootstrap 4.0 yaitu di folder public
 app.use(express.static('public'));
 
 app.listen(port, function(){
