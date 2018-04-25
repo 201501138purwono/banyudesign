@@ -1,0 +1,11 @@
+{
+  "name": "banyudesign",
+  "version": "1.0.0",
+  "description": "Aplikasi Pemesanan Jasa Studio Online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ipung Purwono 201501138",
+  "license": "ISC"
+}
