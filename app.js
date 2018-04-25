@@ -7,3 +7,5 @@ app.listen(port, function(){
 app.get('/', function(req, res){
     res.send('Hello Express');
 });
+
+app.use(express.static('public'));
